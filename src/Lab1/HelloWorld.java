@@ -7,5 +7,10 @@ public class HelloWorld
 
 
         System.out.println("Hello world !!!");
+        System.out.println("Napisara Na Nakhon");
+        System.out.println("363211760034!!!");
+        System.out.println("สาขาการจัดการเทคโนโลยีสารสนเทศ");
+        System.out.println("คณะเทคโนโลยีการจัดการ");
+
     }
 }
